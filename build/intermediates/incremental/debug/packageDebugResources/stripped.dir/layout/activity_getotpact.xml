@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:overScrollMode="never"
+    android:scrollbars="none"
+    tools:context=".getotpact">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="206dp"
+            android:layout_height="224dp"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/otppic" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="sans-serif-condensed-light"
+            android:text="OTP Verification"
+            android:textAlignment="center"
+            android:textColor="#01A0A7"
+            android:textSize="30dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Please Enter the OTP sent to you"
+            android:textAlignment="center"
+            android:textColor="#01A0A7"
+            android:textSize="10dp" />
+
+        <TextView
+            android:id="@+id/showmobile"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:textAlignment="center"
+            android:textColor="#01A0A7"
+            android:textSize="10dp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="10dp"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <EditText
+                android:id="@+id/otp1"
+                android:layout_width="40dp"
+                android:textSize="30dp"
+                android:textAlignment="center"
+                android:layout_height="49dp"
+                android:background="@drawable/curvee"
+                android:inputType="number"
+                android:maxLength="1" />
+
+            <EditText
+                android:id="@+id/otp2"
+                android:layout_width="40dp"
+                android:layout_height="49dp"
+                android:layout_marginLeft="10dp"
+                android:textSize="30dp"
+                android:textAlignment="center"
+                android:background="@drawable/curvee"
+                android:inputType="number"
+                android:maxLength="1" />
+
+            <EditText
+                android:id="@+id/otp3"
+                android:layout_width="40dp"
+                android:layout_height="49dp"
+                android:textSize="30dp"
+                android:textAlignment="center"
+                android:layout_marginLeft="10dp"
+                android:background="@drawable/curvee"
+                android:inputType="number"
+                android:maxLength="1" />
+
+            <EditText
+                android:id="@+id/otp4"
+                android:layout_width="40dp"
+                android:textSize="30dp"
+                android:textAlignment="center"
+                android:layout_height="49dp"
+                android:layout_marginLeft="10dp"
+                android:background="@drawable/curvee"
+                android:imeOptions="actionNext"
+                android:inputType="number"
+                android:maxLength="1" />
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/verotp"
+            android:layout_width="239dp"
+            android:layout_height="53dp"
+            android:layout_marginTop="10dp"
+            android:backgroundTint="#01A0A7"
+            android:shadowColor="@color/black"
+            android:text="Verify OTP"
+            android:textColor="@color/black"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+
+</ScrollView>

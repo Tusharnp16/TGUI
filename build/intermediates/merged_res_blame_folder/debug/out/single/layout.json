@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-mergeDebugResources-32:\\layout\\curve.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-main-35:\\layout\\curve.xml"
+    },
+    {
+        "merged": "com.example.tgu.app-mergeDebugResources-32:/layout/activity_getotpact.xml",
+        "source": "com.example.tgu.app-main-35:/layout/activity_getotpact.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-mergeDebugResources-32:\\layout\\custome_progressbar.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-main-35:\\layout\\custome_progressbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-mergeDebugResources-32:\\layout\\studentitemlist.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-main-35:\\layout\\studentitemlist.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-mergeDebugResources-32:\\layout\\activity_showuser.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-main-35:\\layout\\activity_showuser.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-mergeDebugResources-32:\\layout\\custome_progress.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-main-35:\\layout\\custome_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-mergeDebugResources-32:\\layout\\activity_registractionact.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-main-35:\\layout\\activity_registractionact.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-mergeDebugResources-32:\\layout\\activity_custome_progrgess.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-main-35:\\layout\\activity_custome_progrgess.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-mergeDebugResources-32:\\layout\\activity_getotpact.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-main-35:\\layout\\activity_getotpact.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-mergeDebugResources-32:\\layout\\activity_updatestu.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-main-35:\\layout\\activity_updatestu.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-mergeDebugResources-32:\\layout\\custom_dialogbox.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-main-35:\\layout\\custom_dialogbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-mergeDebugResources-32:\\layout\\activity_studentact.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-main-35:\\layout\\activity_studentact.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-mergeDebugResources-32:\\layout\\activity_adminact.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-main-35:\\layout\\activity_adminact.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-mergeDebugResources-32:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-main-35:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-mergeDebugResources-32:\\layout\\activity_recycleuserlist.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-main-35:\\layout\\activity_recycleuserlist.xml"
+    }
+]

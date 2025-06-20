@@ -1,0 +1,190 @@
+[
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-merged_res-33:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-main-35:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-merged_res-33:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-main-35:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-merged_res-33:\\layout_custome_progressbar.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-main-35:\\layout\\custome_progressbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-merged_res-33:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-main-35:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-merged_res-33:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-main-35:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-merged_res-33:\\layout_activity_showuser.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-main-35:\\layout\\activity_showuser.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-merged_res-33:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-main-35:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-merged_res-33:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-main-35:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-merged_res-33:\\layout_activity_updatestu.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-main-35:\\layout\\activity_updatestu.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-merged_res-33:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-main-35:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-merged_res-33:\\layout_custome_progress.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-main-35:\\layout\\custome_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-merged_res-33:\\drawable_otppic.png.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-main-35:\\drawable\\otppic.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-merged_res-33:\\drawable_admin.png.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-main-35:\\drawable\\admin.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-merged_res-33:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-main-35:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-merged_res-33:\\layout_activity_custome_progrgess.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-main-35:\\layout\\activity_custome_progrgess.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-merged_res-33:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-main-35:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-merged_res-33:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-main-35:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-merged_res-33:\\layout_activity_adminact.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-main-35:\\layout\\activity_adminact.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-merged_res-33:\\drawable_stu.webp.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-main-35:\\drawable\\stu.webp"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-merged_res-33:\\drawable_baseline_lock_24.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-main-35:\\drawable\\baseline_lock_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-merged_res-33:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-main-35:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-merged_res-33:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-main-35:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-merged_res-33:\\drawable_curvee.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-main-35:\\drawable\\curvee.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-merged_res-33:\\layout_activity_getotpact.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-main-35:\\layout\\activity_getotpact.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-merged_res-33:\\layout_curve.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-main-35:\\layout\\curve.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-merged_res-33:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-main-35:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.tgu.app-merged_res-33:/layout_activity_getotpact.xml.flat",
+        "source": "com.example.tgu.app-main-35:/layout/activity_getotpact.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-merged_res-33:\\layout_custom_dialogbox.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-main-35:\\layout\\custom_dialogbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-merged_res-33:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-main-35:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-merged_res-33:\\drawable_jodee_1_24.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-main-35:\\drawable\\jodee_1_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-merged_res-33:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-main-35:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-merged_res-33:\\layout_activity_recycleuserlist.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-main-35:\\layout\\activity_recycleuserlist.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-merged_res-33:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-main-35:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-merged_res-33:\\drawable_baseline_cancel_24.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-main-35:\\drawable\\baseline_cancel_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-merged_res-33:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-main-35:\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-merged_res-33:\\layout_activity_studentact.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-main-35:\\layout\\activity_studentact.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-merged_res-33:\\drawable_baseline_radio_button_unchecked_24.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-main-35:\\drawable\\baseline_radio_button_unchecked_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-merged_res-33:\\layout_activity_registractionact.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-main-35:\\layout\\activity_registractionact.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-merged_res-33:\\drawable_baseline_check_24.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-main-35:\\drawable\\baseline_check_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-merged_res-33:\\layout_studentitemlist.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-main-35:\\layout\\studentitemlist.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-merged_res-33:\\drawable_check_radio.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-main-35:\\drawable\\check_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-merged_res-33:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-main-35:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-merged_res-33:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-main-35:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-merged_res-33:\\drawable_uni.jpg.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-main-35:\\drawable\\uni.jpg"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-merged_res-33:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-main-35:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-merged_res-33:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-main-35:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-merged_res-33:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.tgu.app-main-35:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    }
+]

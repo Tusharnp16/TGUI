@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".updatestu">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif-condensed-light"
+        android:text="Profile Updation"
+        android:textAlignment="center"
+        android:textColor="#01A0A7"
+        android:textSize="30dp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.058" />
+
+    <TextView
+
+        android:layout_width="340dp"
+        android:layout_height="28dp"
+        android:fontFamily="sans-serif-condensed-light"
+        android:text="Update through your registered mobile number"
+        android:textAlignment="center"
+        android:textColor="#01A0A7"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.507"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.147" />
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="341dp"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:textAlignment="center"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="MissingConstraints">
+
+
+        <EditText
+            android:id="@+id/txtmobile"
+            android:layout_width="325dp"
+            android:layout_height="49dp"
+            android:layout_marginBottom="1dp"
+            android:background="@drawable/curvee"
+            android:ems="10"
+            android:hint="Mobile No."
+            android:inputType="phone"
+            android:maxLength="10"
+            android:paddingLeft="10dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.284" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="1dp"
+            android:text="----------------------------------"
+            android:textColor="#01A0A7"
+            android:textSize="35dp" />
+
+
+        <EditText
+            android:id="@+id/txtfname"
+            android:layout_width="325dp"
+            android:layout_height="49dp"
+            android:layout_marginBottom="15dp"
+            android:background="@drawable/curvee"
+            android:ems="10"
+            android:hint="First Name"
+            android:inputType="textPersonName"
+            android:paddingLeft="10dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.284" />
+
+        <EditText
+            android:id="@+id/txtlname"
+            android:layout_width="325dp"
+            android:layout_height="49dp"
+            android:layout_marginBottom="15dp"
+            android:background="@drawable/curvee"
+            android:ems="10"
+            android:hint="Last Name"
+            android:inputType="textPersonName"
+            android:paddingLeft="10dp" />
+
+
+
+        <RadioGroup
+            android:id="@+id/rggender"
+            android:layout_width="325dp"
+            android:layout_height="49dp"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/curvee"
+            android:contextClickable="true"
+            android:orientation="horizontal"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.5">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:text="Gender :"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <RadioButton
+                android:id="@+id/rbmale"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:button="@drawable/check_radio"
+                android:drawableTintMode="screen"
+                android:text="Male" />
+
+            <RadioButton
+                android:id="@+id/rbfemale"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="5dp"
+                android:button="@drawable/check_radio"
+                android:text="Female" />
+
+
+        </RadioGroup>
+
+        <EditText
+            android:id="@+id/txtcourse"
+            android:layout_width="325dp"
+            android:layout_height="49dp"
+            android:layout_marginBottom="15dp"
+            android:background="@drawable/curvee"
+            android:ems="10"
+            android:hint="Course Name"
+            android:inputType="textPersonName"
+            android:paddingLeft="10dp"
+            android:textAllCaps="true"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.284" />
+
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/updbtn"
+        android:layout_width="161dp"
+        android:layout_height="53dp"
+        android:layout_marginLeft="30dp"
+        android:backgroundTint="#01A0A7"
+        android:shadowColor="@color/black"
+        android:text="Update"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.388"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.875" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
