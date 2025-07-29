@@ -14,11 +14,6 @@
   <img src="https://img.shields.io/badge/UI%20Theme-Cyan-00ffff?style=flat-square" />
 </p>
 
-<h3 align="center"> 🧢🔥 <code>✨ TONY BHAI ✨</code> 🔥🧢 </h3>
-For the vision, inspiration, and never-ending motivation behind Tony Global University. Without your swag, style, and support – this project wouldn’t exist.
-
-🚀 TGUI = Powered by Tony Bhai’s energy!
-
 ---
 
 ## 🚀 Overview
@@ -88,7 +83,10 @@ Made with 💙 in India 🇮🇳
 🙏 Special Thanks
 💙 A massive shoutout to the one and only...
 
+<h3 align="center"> 🧢🔥 <code>✨ TONY BHAI ✨</code> 🔥🧢 </h3>
+For the vision, inspiration, and never-ending motivation behind Tony Global University. Without your swag, style, and support – this project wouldn’t exist.
 
+🚀 TGUI = Powered by Tony Bhai’s energy!
 
 Clone the repository:
 git clone https://github.com/Tusharnp16/TGUI.git
